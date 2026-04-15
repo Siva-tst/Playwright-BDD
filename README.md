@@ -176,4 +176,8 @@ export default defineConfig({
 - **playwright-bdd** — BDD layer for Playwright (Gherkin support)
 - **TypeScript** — Type-safe step definitions and page objects
 
+<<<<<<< Updated upstream
 Stash2
+=======
+Siva main branch testing
+>>>>>>> Stashed changes
