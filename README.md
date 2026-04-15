@@ -175,3 +175,5 @@ export default defineConfig({
 - **Playwright** — Browser automation
 - **playwright-bdd** — BDD layer for Playwright (Gherkin support)
 - **TypeScript** — Type-safe step definitions and page objects
+
+Stash2
